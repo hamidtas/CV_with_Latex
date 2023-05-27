@@ -19,7 +19,7 @@ To generate your CV please follow the bellow steps :
   
   2- Downoald MikeTex from the link :
   
-    link : https://miktex.org/download
+    https://miktex.org/download
     
    3- Open the "cv.tex" and edit your resume.
    
